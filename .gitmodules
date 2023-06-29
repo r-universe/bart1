@@ -5,6 +5,9 @@
 [submodule "move"]
 	path = move
 	url = https://gitlab.com/bartk/move
+[submodule "move2"]
+	path = move2
+	url = https://gitlab.com/bartk/move2
 [submodule "moveWindSpeed"]
 	path = moveWindSpeed
 	url = https://gitlab.com/bartk/movewindspeed
